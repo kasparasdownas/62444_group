@@ -1,2 +1,15 @@
+# Virtual environments
 .venv
+.venv*/
 venv
+venv*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
